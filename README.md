@@ -18,7 +18,7 @@ IDE: Jupyter Notebook
 <br>Построить модель классификации для прогнозирования оттока клиентов банка, опираясь на исторические данные о поведении клиентов и расторжении договоров с банком	
 <br>matplotlib pandas re sklearn scipy
 
-[<b>3 - Машинное обучение в бизнесе</b>](https://github.com/YelikVl/Yandex-Praktikum-projects/tree/main/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B5)	
+[<b>Машинное обучение в бизнесе</b>](https://github.com/YelikVl/Yandex-Praktikum-projects/tree/main/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B5)	
 <br>Выбор региона для разработки новых нефтяных скважин	
 <br>Построить модель машинного обучения и выбрать один из трех регионов, где добыча нефти принесёт наибольшую прибыль. Предстоит проанализировать возможную прибыль и риски техникой Bootstrap	
 <br>matplotlib numpy pandas seaborn sklearn
@@ -28,7 +28,7 @@ IDE: Jupyter Notebook
 <br>Построить прототип модели машинного обучение для предсказания коэффициента восстановления золота из золотосодержащей руды	
 <br>matplotlib numpy pandas plotly seaborn sklearn
 
-[<b>5 - Линейная алгебра</b>](https://github.com/YelikVl/Yandex-Praktikum-projects/tree/main/%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F%20%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0)
+[<b>Линейная алгебра</b>](https://github.com/YelikVl/Yandex-Praktikum-projects/tree/main/%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F%20%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0)
 <br>Защита данных клиентов страховой компании	
 <br>Разработать такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию клиентов. При преобразовании данных качество моделей машинного обучения должно сохраниться	
 <br>matplotlib numpy pandas sklearn
@@ -38,7 +38,7 @@ IDE: Jupyter Notebook
 <br>Построить модель для определения рыночной стоимости автомобилей с пробегом	
 <br>catboost lightgbm matplotlib numpy pandas seaborn sklearn time
 
-[<b>7 - Временные ряды	</b>](https://github.com/YelikVl/Yandex-Praktikum-projects/tree/main/%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%80%D1%8F%D0%B4%D1%8B)	
+[<b>Временные ряды</b>](https://github.com/YelikVl/Yandex-Praktikum-projects/tree/main/%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%80%D1%8F%D0%B4%D1%8B)	
 <br>Построить модель для предсказания количества заказов такси	
 <br> statsmodels numpy pandas seaborn sklearn lightgbm
 	
